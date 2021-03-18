@@ -7,11 +7,12 @@ from bs4 import BeautifulSoup
 from os import path
 import requests
 import logging
+import json
 
 
 class Checker:
 
-	def __init__(self, url):
+	def __init__(self, url=None):
 		'''
 			Initial setup.  There are a lot of varying things between the sites, so for
 			most of these it may be impossible to simply pass in a few arguments and
@@ -29,9 +30,13 @@ class Checker:
 		# Request and BS4 result will be ready for scraping
 		self.res = None
 		self.soup = None
+		self.data = {}  # Return data for the API
+
+		# Go ahead and get the request, there is no reason to wait as of now
+		self.get_contents()
 
 	def _setup_logger(self):
-		# Ensure namespace passes to child
+		''' Basic logger setup.  Uses the filename to tell which scraper is logged. '''
 		logging.basicConfig(
 			format = f'{path.basename(__file__)} %(asctime)s %(message)s',
    			datefmt = '%m/%d/%Y %I:%M:%S %p',
@@ -45,26 +50,37 @@ class Checker:
 	def get_contents(self):
 		''' 
 			Passes the contents of a get request into a bs4 parser.  
-			Note: request.get() is blocking so async will have to be handled on the server
+			Note: request.get() is blocking so async will have to be handled on the server.g
 		'''
 		try:
-			self.res = requests.get(self.url)
+			# Ensure headers to bypass initial bot security, I would rather not use selenium
+			headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0'}
+			self.res = requests.get(self.url, headers=headers)
 			self.res.raise_for_status()   # raises HTTPError
 			self.logger.info(f'Request successful to {self.url}')
-			self.soup = self.res.content
+			self.soup = BeautifulSoup(self.res.text, features="html.parser")
 			
 			return True
 			
 		except requests.HTTPError as e:
 			self.logger.error(f'ERROR: Request failed to {self.url}')
+
 			return False
 	
-	def print_soup(self):
-		''' Helper method to print the HTML contents '''
+	def print_html(self):
+		''' Helper method to print the HTML contents nicely. '''
 		if self.soup != None:
-			print(self.soup)
+			print(self.soup.prettify())
 		else:
-			self.logger.error('Unable to print soup.')
+			print('Unable to print - check request status.')
+
+	def get_json(self):
+		if self.data != {}:
+			print(type(json.dumps(self.data)))
+			return json.dumps(self.data)
+		else:
+			logger.error("JSON data object is empty")
+			return {}
 
 
 if __name__ == "__main__":

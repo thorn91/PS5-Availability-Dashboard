@@ -1,0 +1,803 @@
+checker.py 03/18/2021 01:41:07 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:41:08 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:41:08 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=20cf7320-8811-11eb-bd84-b35116d9d7a6&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:41:08 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:45:30 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:45:30 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:45:30 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=bd0512e0-8811-11eb-a013-976eb4676707&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:45:30 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:46:06 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:46:06 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:46:06 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=d26fdca0-8811-11eb-915d-95a090b09327&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:46:06 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:46:51 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:46:52 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:46:52 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=edab7330-8811-11eb-b0d5-8d1895ac7e6d&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:46:52 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:47:51 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:47:51 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:47:51 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=11229500-8812-11eb-b0b3-b92b3d65987f&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:47:51 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:47:55 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:47:55 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:47:55 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=135ad1c0-8812-11eb-af92-d30033b29f36&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:47:55 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:48:07 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:48:07 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:48:07 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=1ab39e20-8812-11eb-8c92-69e83cd7d2ec&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:48:07 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:48:10 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:48:10 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:48:10 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=1c7ac990-8812-11eb-83b2-cb647a50a752&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:48:10 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:48:20 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:48:20 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:48:21 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=229103d0-8812-11eb-a728-6747bb4cadfc&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:48:21 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:48:26 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:48:26 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:48:26 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=25c2e2d0-8812-11eb-9865-af2f49729a3e&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:48:26 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:48:43 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:48:44 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:48:44 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=305ecc40-8812-11eb-9c25-3bf1a803077a&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:48:44 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:48:52 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:48:53 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:48:53 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=35c628e0-8812-11eb-8fab-91ba0e60fff5&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:48:53 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:49:11 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:49:11 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:49:11 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=40a33a00-8812-11eb-8d4b-a72d1b0c04f4&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:49:11 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:49:13 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:49:13 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:49:14 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=42240da0-8812-11eb-afaa-cb56888578dd&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:49:14 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:50:16 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:50:17 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:50:17 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=67d62b50-8812-11eb-b9e7-fdcce29ed6b3&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:50:17 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:50:56 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:50:56 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:50:56 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=7f669430-8812-11eb-a1e6-83446d1c8178&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:50:56 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:51:06 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:51:06 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:51:06 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=854e9280-8812-11eb-8daa-a9ca53bfb419&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:51:06 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:51:34 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:51:34 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:51:34 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=95f01460-8812-11eb-b78a-5b795d4858f7&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:51:34 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:51:46 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:51:46 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:51:46 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=9d1378e0-8812-11eb-b6f3-53dcd748352e&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:51:46 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 01:51:49 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 01:51:49 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 01:51:50 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=9f1ed940-8812-11eb-8e52-9faf154a1c1c&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 01:51:50 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:01:55 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:01:55 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 02:01:56 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=08528000-8814-11eb-afb5-fff2f4f57c28&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 02:01:56 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:02:05 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:02:05 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 02:02:06 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=0e37e640-8814-11eb-8015-e741ca3ea11c&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 02:02:06 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:02:13 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:02:13 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 02:02:14 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=12f4d210-8814-11eb-89ce-1fac26ba42bb&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 02:02:14 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:02:43 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:02:45 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 02:02:45 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=26002800-8814-11eb-9b04-771c3431d8cf&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 02:02:45 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:03:00 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:03:00 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 02:03:01 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=2ee4c480-8814-11eb-8fa2-f9da56e1a6b0&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 02:03:01 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:03:51 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:03:51 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 02:03:51 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=4d4800e0-8814-11eb-88d8-29f02af6f592&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 02:03:51 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:03:52 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:03:53 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 02:03:53 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=4e42dba0-8814-11eb-af06-7917075d53bf&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 02:03:53 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:05:13 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:05:13 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 307 21
+checker.py 03/18/2021 02:05:13 PM https://www.walmart.com:443 "GET /blocked?url=L2lwL1BsYXlTdGF0aW9uLTUtQ29uc29sZS8zNjM0NzI5NDI=&uuid=7e201f90-8814-11eb-af76-97b983792752&vid=&g=a HTTP/1.1" 200 3019
+checker.py 03/18/2021 02:05:13 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:09:19 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:09:20 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92102
+checker.py 03/18/2021 02:09:20 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:10:48 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:10:49 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92108
+checker.py 03/18/2021 02:10:49 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:12:27 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:12:28 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92110
+checker.py 03/18/2021 02:12:28 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:12:40 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:12:40 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92105
+checker.py 03/18/2021 02:12:41 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:12:51 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:12:52 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92135
+checker.py 03/18/2021 02:12:52 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:12:54 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:12:55 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92108
+checker.py 03/18/2021 02:12:55 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:13:02 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:13:02 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92138
+checker.py 03/18/2021 02:13:03 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:13:05 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:13:06 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92102
+checker.py 03/18/2021 02:13:06 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:14:27 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:14:28 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 78472
+checker.py 03/18/2021 02:14:28 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:14:35 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:14:35 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92134
+checker.py 03/18/2021 02:14:36 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:14:42 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:14:42 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92109
+checker.py 03/18/2021 02:14:43 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:14:52 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:14:53 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92136
+checker.py 03/18/2021 02:14:53 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:24:55 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:24:56 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92128
+checker.py 03/18/2021 02:24:56 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:25:11 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:25:12 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92107
+checker.py 03/18/2021 02:25:12 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:25:54 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:25:55 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92079
+checker.py 03/18/2021 02:25:56 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:28:33 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:28:34 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92109
+checker.py 03/18/2021 02:28:34 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:28:52 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:28:53 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92107
+checker.py 03/18/2021 02:28:53 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:31:00 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:31:02 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92114
+checker.py 03/18/2021 02:31:06 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:33:05 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:33:06 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92115
+checker.py 03/18/2021 02:33:07 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:39:02 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:39:03 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92047
+checker.py 03/18/2021 02:39:03 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:39:03 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 16, in root
+    data = w.check_stock()
+  File "./walmart_checker.py", line 23, in check_stock
+    data['stock'] = False;
+NameError: name 'data' is not defined
+checker.py 03/18/2021 02:39:22 PM Shutting down
+checker.py 03/18/2021 02:39:23 PM Waiting for application shutdown.
+checker.py 03/18/2021 02:39:23 PM Application shutdown complete.
+checker.py 03/18/2021 02:39:23 PM Finished server process [19026]
+checker.py 03/18/2021 02:39:24 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:39:25 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92110
+checker.py 03/18/2021 02:39:25 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:39:52 PM Shutting down
+checker.py 03/18/2021 02:39:52 PM Waiting for application shutdown.
+checker.py 03/18/2021 02:39:52 PM Application shutdown complete.
+checker.py 03/18/2021 02:39:52 PM Finished server process [19027]
+checker.py 03/18/2021 02:41:55 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:41:56 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92049
+checker.py 03/18/2021 02:41:56 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:42:27 PM Shutting down
+checker.py 03/18/2021 02:42:27 PM Waiting for application shutdown.
+checker.py 03/18/2021 02:42:27 PM Application shutdown complete.
+checker.py 03/18/2021 02:42:27 PM Finished server process [19133]
+checker.py 03/18/2021 02:42:36 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:42:37 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92130
+checker.py 03/18/2021 02:42:37 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:48:33 PM Shutting down
+checker.py 03/18/2021 02:48:33 PM Waiting for application shutdown.
+checker.py 03/18/2021 02:48:33 PM Application shutdown complete.
+checker.py 03/18/2021 02:48:33 PM Finished server process [19135]
+checker.py 03/18/2021 02:49:18 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:49:19 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92041
+checker.py 03/18/2021 02:49:19 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:50:05 PM Shutting down
+checker.py 03/18/2021 02:50:05 PM Waiting for application shutdown.
+checker.py 03/18/2021 02:50:05 PM Application shutdown complete.
+checker.py 03/18/2021 02:50:05 PM Finished server process [19160]
+checker.py 03/18/2021 02:50:16 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:50:17 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92104
+checker.py 03/18/2021 02:50:18 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:51:53 PM Shutting down
+checker.py 03/18/2021 02:51:53 PM Waiting for application shutdown.
+checker.py 03/18/2021 02:51:53 PM Application shutdown complete.
+checker.py 03/18/2021 02:51:53 PM Finished server process [19170]
+checker.py 03/18/2021 02:52:04 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:52:04 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92107
+checker.py 03/18/2021 02:52:05 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:52:19 PM Shutting down
+checker.py 03/18/2021 02:52:19 PM Waiting for application shutdown.
+checker.py 03/18/2021 02:52:19 PM Application shutdown complete.
+checker.py 03/18/2021 02:52:19 PM Finished server process [19173]
+checker.py 03/18/2021 02:52:21 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 02:52:21 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92146
+checker.py 03/18/2021 02:52:22 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 02:53:58 PM Shutting down
+checker.py 03/18/2021 02:53:58 PM Waiting for application shutdown.
+checker.py 03/18/2021 02:53:58 PM Application shutdown complete.
+checker.py 03/18/2021 02:53:58 PM Finished server process [19174]
+checker.py 03/18/2021 03:25:46 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 03:25:47 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92067
+checker.py 03/18/2021 03:25:48 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 03:25:48 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 22, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 21, in check_stock
+    stock_date = stock_date[1].strip()[:20]
+IndexError: list index out of range
+checker.py 03/18/2021 03:26:03 PM Shutting down
+checker.py 03/18/2021 03:26:03 PM Waiting for application shutdown.
+checker.py 03/18/2021 03:26:03 PM Application shutdown complete.
+checker.py 03/18/2021 03:26:03 PM Finished server process [19183]
+checker.py 03/18/2021 04:19:30 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 04:19:33 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92083
+checker.py 03/18/2021 04:19:34 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 04:19:34 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 23, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 21, in check_stock
+    stock_date = stock_date[1].strip()[:20]
+IndexError: list index out of range
+checker.py 03/18/2021 04:20:33 PM Shutting down
+checker.py 03/18/2021 04:20:33 PM Waiting for application shutdown.
+checker.py 03/18/2021 04:20:33 PM Application shutdown complete.
+checker.py 03/18/2021 04:20:33 PM Finished server process [21394]
+checker.py 03/18/2021 04:21:41 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 04:21:45 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92074
+checker.py 03/18/2021 04:21:45 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 04:22:09 PM Shutting down
+checker.py 03/18/2021 04:22:09 PM Waiting for application shutdown.
+checker.py 03/18/2021 04:22:09 PM Application shutdown complete.
+checker.py 03/18/2021 04:22:09 PM Finished server process [21462]
+checker.py 03/18/2021 04:22:38 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 04:22:42 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92067
+checker.py 03/18/2021 04:22:42 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 04:22:55 PM Shutting down
+checker.py 03/18/2021 04:22:55 PM Waiting for application shutdown.
+checker.py 03/18/2021 04:22:55 PM Application shutdown complete.
+checker.py 03/18/2021 04:22:55 PM Finished server process [21468]
+checker.py 03/18/2021 04:51:46 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 04:51:47 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92573
+checker.py 03/18/2021 04:51:47 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 04:51:47 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 28, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 18, in check_stock
+    if (stock_date := self.soup.find(class_='prod-blitz-copy-message').get_text()):
+AttributeError: 'NoneType' object has no attribute 'get_text'
+checker.py 03/18/2021 04:51:52 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 04:51:53 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92582
+checker.py 03/18/2021 04:51:53 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 04:51:53 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 28, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 18, in check_stock
+    if (stock_date := self.soup.find(class_='prod-blitz-copy-message').get_text()):
+AttributeError: 'NoneType' object has no attribute 'get_text'
+checker.py 03/18/2021 04:54:08 PM Shutting down
+checker.py 03/18/2021 04:54:08 PM Waiting for application shutdown.
+checker.py 03/18/2021 04:54:08 PM Application shutdown complete.
+checker.py 03/18/2021 04:54:08 PM Finished server process [22829]
+checker.py 03/18/2021 05:00:32 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:00:38 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 91988
+checker.py 03/18/2021 05:00:39 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:00:39 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 28, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 18, in check_stock
+    if self.soup.find(class_='spin-button-children').get_text() == "Add to cart":
+AttributeError: 'NoneType' object has no attribute 'get_text'
+checker.py 03/18/2021 05:00:39 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:00:43 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92068
+checker.py 03/18/2021 05:00:44 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:00:44 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 28, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 18, in check_stock
+    if self.soup.find(class_='spin-button-children').get_text() == "Add to cart":
+AttributeError: 'NoneType' object has no attribute 'get_text'
+checker.py 03/18/2021 05:00:44 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:00:45 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92075
+checker.py 03/18/2021 05:00:46 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:00:46 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 28, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 18, in check_stock
+    if self.soup.find(class_='spin-button-children').get_text() == "Add to cart":
+AttributeError: 'NoneType' object has no attribute 'get_text'
+checker.py 03/18/2021 05:00:59 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:01:00 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92073
+checker.py 03/18/2021 05:01:01 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:01:01 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 28, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 18, in check_stock
+    if self.soup.find(class_='spin-button-children').get_text() == "Add to cart":
+AttributeError: 'NoneType' object has no attribute 'get_text'
+checker.py 03/18/2021 05:06:55 PM Shutting down
+checker.py 03/18/2021 05:06:55 PM Waiting for application shutdown.
+checker.py 03/18/2021 05:06:55 PM Application shutdown complete.
+checker.py 03/18/2021 05:06:55 PM Finished server process [23836]
+checker.py 03/18/2021 05:06:58 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:07:00 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92054
+checker.py 03/18/2021 05:07:00 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:07:00 PM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 28, in walmart
+    data = w.check_stock()
+  File "./walmart_checker.py", line 18, in check_stock
+    if self.soup.find(class_='spin-button-children').text == "Add to cart":
+AttributeError: 'NoneType' object has no attribute 'text'
+checker.py 03/18/2021 05:08:17 PM Shutting down
+checker.py 03/18/2021 05:08:17 PM Waiting for application shutdown.
+checker.py 03/18/2021 05:08:17 PM Application shutdown complete.
+checker.py 03/18/2021 05:08:17 PM Finished server process [23853]
+checker.py 03/18/2021 05:08:49 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:08:53 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 91986
+checker.py 03/18/2021 05:08:54 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:09:04 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:09:08 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92283
+checker.py 03/18/2021 05:09:09 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:09:29 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:09:33 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92062
+checker.py 03/18/2021 05:09:33 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:09:33 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:09:34 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92058
+checker.py 03/18/2021 05:09:34 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:10:11 PM Shutting down
+checker.py 03/18/2021 05:10:12 PM Waiting for application shutdown.
+checker.py 03/18/2021 05:10:12 PM Application shutdown complete.
+checker.py 03/18/2021 05:10:12 PM Finished server process [23858]
+checker.py 03/18/2021 05:10:14 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:10:15 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92050
+checker.py 03/18/2021 05:10:15 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:10:31 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:10:32 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92039
+checker.py 03/18/2021 05:10:32 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:10:32 PM Shutting down
+checker.py 03/18/2021 05:10:32 PM Waiting for application shutdown.
+checker.py 03/18/2021 05:10:32 PM Application shutdown complete.
+checker.py 03/18/2021 05:10:32 PM Finished server process [23867]
+checker.py 03/18/2021 05:10:38 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:10:39 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92058
+checker.py 03/18/2021 05:10:39 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:10:47 PM Shutting down
+checker.py 03/18/2021 05:10:47 PM Waiting for application shutdown.
+checker.py 03/18/2021 05:10:47 PM Application shutdown complete.
+checker.py 03/18/2021 05:10:47 PM Finished server process [23868]
+checker.py 03/18/2021 05:11:37 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:11:39 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92072
+checker.py 03/18/2021 05:11:39 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:11:43 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:11:44 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92052
+checker.py 03/18/2021 05:11:45 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:11:45 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:11:46 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92041
+checker.py 03/18/2021 05:11:46 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:11:47 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:11:48 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 92072
+checker.py 03/18/2021 05:11:51 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:12:53 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:12:57 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106410
+checker.py 03/18/2021 05:12:57 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:14:04 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:14:05 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106443
+checker.py 03/18/2021 05:14:05 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:14:25 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:14:27 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106476
+checker.py 03/18/2021 05:14:28 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:14:28 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:14:29 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106461
+checker.py 03/18/2021 05:14:29 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:15:49 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:15:50 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106428
+checker.py 03/18/2021 05:15:50 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:15:51 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:15:51 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106496
+checker.py 03/18/2021 05:15:52 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:16:38 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:16:40 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106443
+checker.py 03/18/2021 05:16:40 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:16:54 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:16:55 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106405
+checker.py 03/18/2021 05:16:55 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:17:10 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:17:11 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106637
+checker.py 03/18/2021 05:17:12 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:17:21 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:17:22 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106411
+checker.py 03/18/2021 05:17:23 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:17:29 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:17:30 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106418
+checker.py 03/18/2021 05:17:30 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:19:50 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:19:51 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106351
+checker.py 03/18/2021 05:19:55 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:20:12 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:20:15 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106420
+checker.py 03/18/2021 05:20:15 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:20:30 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:20:31 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106413
+checker.py 03/18/2021 05:20:31 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:21:00 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:21:01 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106422
+checker.py 03/18/2021 05:21:02 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:21:18 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:21:19 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106410
+checker.py 03/18/2021 05:21:19 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:21:19 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:21:20 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106732
+checker.py 03/18/2021 05:21:20 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:22:00 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:22:01 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106419
+checker.py 03/18/2021 05:22:02 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:22:02 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:22:06 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106405
+checker.py 03/18/2021 05:22:07 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:22:39 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:22:40 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106346
+checker.py 03/18/2021 05:22:41 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:25:57 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:25:58 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106480
+checker.py 03/18/2021 05:25:59 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:26:01 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:26:05 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106401
+checker.py 03/18/2021 05:26:05 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:26:05 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:26:06 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106430
+checker.py 03/18/2021 05:26:07 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:28:34 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:28:35 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106423
+checker.py 03/18/2021 05:28:35 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:29:42 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:29:43 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106414
+checker.py 03/18/2021 05:29:43 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:30:36 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:30:38 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106422
+checker.py 03/18/2021 05:30:38 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:30:53 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:30:54 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106671
+checker.py 03/18/2021 05:30:55 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:31:02 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:31:03 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106404
+checker.py 03/18/2021 05:31:03 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:31:09 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:31:10 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106424
+checker.py 03/18/2021 05:31:11 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:31:26 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:31:27 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106431
+checker.py 03/18/2021 05:31:27 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:31:35 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:31:36 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106409
+checker.py 03/18/2021 05:31:37 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:31:37 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:31:38 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106404
+checker.py 03/18/2021 05:31:41 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:32:21 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:32:23 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106419
+checker.py 03/18/2021 05:32:24 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:32:24 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:32:24 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106461
+checker.py 03/18/2021 05:32:25 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:33:08 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:33:12 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106434
+checker.py 03/18/2021 05:33:13 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:34:53 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:34:54 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106415
+checker.py 03/18/2021 05:34:57 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:35:06 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:35:07 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106439
+checker.py 03/18/2021 05:35:08 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:35:15 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 05:35:16 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106407
+checker.py 03/18/2021 05:35:17 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
