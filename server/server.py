@@ -6,6 +6,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from walmart_checker import WalmartChecker
+from target_checker import TargetChecker
 
 # Creates FastAPI instance
 app = FastAPI()
@@ -29,4 +30,10 @@ async def walmart():
 
 	return data
 
+@app.get('/target')
+async def target():
+	''' Almost no scraping is involved.  Let the frontend deal with parsing JSON. '''
+	t = TargetChecker()
+	data = t.check_stock()
 
+	return data

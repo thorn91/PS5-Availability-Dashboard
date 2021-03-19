@@ -4,7 +4,7 @@
       <ul class="list-group p-1 list-group-flush">
         <!-- Individual template items have to be individual, too many differences -->
         <Walmart />
-        <li class="list-group-item">A second item</li>
+        <Target />
         <li class="list-group-item">A third item</li>
       </ul>
     </div>
@@ -13,12 +13,12 @@
 
 <script>
 import Walmart from './Walmart.vue'
+import Target from './Target.vue'
 
 export default {
-  components: { Walmart },
+  components: { Walmart, Target },
   name: 'Main',
   props: {
-    Walmart,
   }
 }
 </script>

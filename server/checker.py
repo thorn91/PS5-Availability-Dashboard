@@ -40,7 +40,7 @@ class Checker:
 		logging.basicConfig(
 			format = f'{path.basename(__file__)} %(asctime)s %(message)s',
    			datefmt = '%m/%d/%Y %I:%M:%S %p',
-            filename = 'app.log',
+            filename = './app.log',
             level=logging.DEBUG
 		)
 

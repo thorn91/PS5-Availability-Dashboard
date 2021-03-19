@@ -801,3 +801,134 @@ checker.py 03/18/2021 05:35:08 PM Request successful to https://www.walmart.com/
 checker.py 03/18/2021 05:35:15 PM Starting new HTTPS connection (1): www.walmart.com:443
 checker.py 03/18/2021 05:35:16 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106407
 checker.py 03/18/2021 05:35:17 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 05:42:22 PM Shutting down
+checker.py 03/18/2021 05:42:22 PM Waiting for application shutdown.
+checker.py 03/18/2021 05:42:22 PM Application shutdown complete.
+checker.py 03/18/2021 05:42:22 PM Finished server process [23869]
+checker.py 03/18/2021 07:23:39 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:23:40 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106429
+checker.py 03/18/2021 07:23:40 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:24:03 PM Shutting down
+checker.py 03/18/2021 07:24:03 PM Waiting for application shutdown.
+checker.py 03/18/2021 07:24:03 PM Application shutdown complete.
+checker.py 03/18/2021 07:24:03 PM Finished server process [7529]
+checker.py 03/18/2021 07:27:54 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:27:54 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:28:02 PM Shutting down
+checker.py 03/18/2021 07:28:02 PM Waiting for application shutdown.
+checker.py 03/18/2021 07:28:02 PM Application shutdown complete.
+checker.py 03/18/2021 07:28:02 PM Finished server process [8489]
+checker.py 03/18/2021 07:29:47 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:29:49 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106346
+checker.py 03/18/2021 07:29:49 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:29:49 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:29:50 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106438
+checker.py 03/18/2021 07:29:50 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:30:30 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:30:31 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:30:50 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:30:50 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:31:04 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:31:05 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:31:05 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:31:06 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106428
+checker.py 03/18/2021 07:31:06 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:31:11 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:31:12 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106455
+checker.py 03/18/2021 07:31:12 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:31:12 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:31:12 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:31:14 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:31:16 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:31:41 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:31:41 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:31:41 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:31:42 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106423
+checker.py 03/18/2021 07:31:42 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:31:47 PM Shutting down
+checker.py 03/18/2021 07:31:47 PM Waiting for application shutdown.
+checker.py 03/18/2021 07:31:47 PM Application shutdown complete.
+checker.py 03/18/2021 07:31:47 PM Finished server process [8498]
+checker.py 03/18/2021 07:32:53 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:32:54 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:32:54 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:32:55 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:32:56 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:32:56 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:32:58 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:32:59 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:33:19 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:33:19 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:33:20 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:33:20 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:33:20 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:33:21 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106422
+checker.py 03/18/2021 07:33:21 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:33:45 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:33:45 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:33:50 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:33:51 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:33:52 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:33:53 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:34:11 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:34:11 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:34:34 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:34:34 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:34:34 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:34:35 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106667
+checker.py 03/18/2021 07:34:35 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:35:06 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:35:06 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:35:06 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:35:10 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106414
+checker.py 03/18/2021 07:35:10 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:35:10 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:35:11 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106394
+checker.py 03/18/2021 07:35:11 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:35:11 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:35:12 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:11 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:11 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:11 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:11 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:11 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:12 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:12 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:12 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:12 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:12 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:12 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:41:13 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106582
+checker.py 03/18/2021 07:41:13 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:41:13 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:14 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:35 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:35 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:37 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:39 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:39 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:41:40 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106349
+checker.py 03/18/2021 07:41:40 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:41:40 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:40 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:40 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:41:41 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106456
+checker.py 03/18/2021 07:41:41 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:41:41 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:42 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:42 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 07:41:42 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106674
+checker.py 03/18/2021 07:41:43 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 07:41:43 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:43 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 07:41:43 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 07:41:43 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 08:06:17 PM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/18/2021 08:06:17 PM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/18/2021 08:06:17 PM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/18/2021 08:06:19 PM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106464
+checker.py 03/18/2021 08:06:19 PM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/18/2021 08:07:16 PM Shutting down
+checker.py 03/18/2021 08:07:16 PM Waiting for application shutdown.
+checker.py 03/18/2021 08:07:16 PM Application shutdown complete.
+checker.py 03/18/2021 08:07:16 PM Finished server process [8833]
