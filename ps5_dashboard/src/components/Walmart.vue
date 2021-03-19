@@ -7,14 +7,24 @@
 			'bg-danger': !(inStock || checkBack)
 			}">
 			<div class="row">
-				<div id="name" class="d-flex justify-content-between">
-					<p :class="{ active : inStock }"><strong>Walmart</strong></p>
-					<i v-show="checkBack" class="fas fa-flushed fa-3x"></i>
-					<i v-show="inStock" class="fas fa-grin-stars fa-3x"></i>
-					<i v-show="!(inStock || checkBack)" class="fas fa-skull-crossbones fa-3x"></i>
+				<div v-if="!error">
+					<div id="name" class="d-flex justify-content-between">
+						<p :class="{ active : inStock }"><strong>{{ store }}</strong></p>
+						<i v-show="checkBack" class="fas fa-flushed fa-3x"></i>
+						<i v-show="inStock" class="fas fa-grin-stars fa-3x"></i>
+						<i v-show="!(inStock || checkBack)" class="fas fa-frown fa-3x"></i>
+					</div>
+					<span v-if="inStock" id="restock-date-true">{{ stockDate }}</span>
+					<span v-else id="restock-date-false">Out of stock</span>
 				</div>
-				<span v-if="inStock" id="restock-date-true">{{ stockDate }}</span>
-				<span v-else id="restock-date-false">Out of stock</span>
+				<div v-else>
+					<div id="name" class="d-flex justify-content-between">
+						<p><strong>{{ store }}</strong></p>
+						<i class="fas fa-dizzy fa-3x"></i>
+					</div>
+						<p><strong>Error fetching results!</strong></p>
+				</div>
+
 			</div>
 		</li>
 	</a>
@@ -28,9 +38,11 @@ export default {
 	name: 'Walmart',
 	data: function() {
 		return {
+			store: 'Walmart',
 			stockDate: '',
 			inStock: false,
 			checkBack: false,
+			error: false,
 		}
 	},
 
@@ -41,7 +53,10 @@ export default {
 				this.inStock = response['data']['stock'];
 				this.checkBack = response['data']['check_back'];
 			})
-			.catch(err => console.log(err));
+			.catch(err => {
+				console.log(err)
+				this.error = true;
+			});
 	},
 
 	methods: {
