@@ -2,10 +2,9 @@
  <div id="main-container" class="d-flex justify-content-center">
     <div class="card" style="width: 24rem;">
       <ul class="list-group p-1 list-group-flush">
-        <!-- Individual template items have to be individual, too many differences -->
+        <!-- Individual template items have to be separate, too many differences -->
         <Walmart />
         <Target />
-        <li class="list-group-item">A third item</li>
       </ul>
     </div>
   </div>

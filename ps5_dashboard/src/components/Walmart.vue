@@ -37,7 +37,6 @@ export default {
 	created() {
 		axios.get('http://127.0.0.1:8000/walmart')
 			.then(response => {
-				console.log(response['data'])
 				this.stockDate = response['data']['stock_date'];
 				this.inStock = response['data']['stock'];
 				this.checkBack = response['data']['check_back'];
