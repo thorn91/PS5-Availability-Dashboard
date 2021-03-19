@@ -1,7 +1,7 @@
 <template>
 <div>
 	<a href="https://www.walmart.com/ip/PlayStation-5-Console/363472942">
-		<li class="list-group-item" :class="{ 
+		<li class="list-group-item m-1 rounded-3 shadow-lg" :class="{ 
 			'bg-success': inStock, 
 			'bg-warning': checkBack,
 			'bg-danger': !(inStock || checkBack)
@@ -14,8 +14,8 @@
 						<i v-show="inStock" class="fas fa-grin-stars fa-3x"></i>
 						<i v-show="!(inStock || checkBack)" class="fas fa-frown fa-3x"></i>
 					</div>
-					<span v-if="inStock" id="restock-date-true">{{ stockDate }}</span>
-					<span v-else id="restock-date-false">Out of stock</span>
+					<span v-if="inStock" id="restock-date-true"><p>{{ stockDate }}</p></span>
+					<span v-else id="restock-date-false"><p>Out of stock</p></span>
 				</div>
 				<div v-else>
 					<div id="name" class="d-flex justify-content-between">

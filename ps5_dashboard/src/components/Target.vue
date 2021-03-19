@@ -1,7 +1,7 @@
 <template>
 <div>
 	<a href="https://www.target.com/p/playstation-5-console/-/A-81114595?clkid=f0187338N5ccc11ebb10e42010a246d22&lnm=81938&afid=Future%20PLC.&ref=tgt_adv_xasd0002">
-		<li class="list-group-item" :class="{ 
+		<li class="list-group-item m-1 rounded-3 shadow-lg" :class="{ 
 			'bg-success': inStock, 
 			'bg-warning': checkBack,
 			'bg-danger': !(inStock || checkBack),
@@ -19,7 +19,7 @@
 						<p>CHECK ATHENS LOCATION!</p>
 						<p>Aisle 47 Block F OR Aisle 50 Block F</p>
 					</span>
-					<span v-else id="restock-date-false">Out of stock</span>
+					<span v-else id="restock-date-false"><p>Out of stock</p></span>
 				</div>
 				<!-- Error! -->
 				<div v-else>
