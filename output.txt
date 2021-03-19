@@ -1,0 +1,2 @@
+ERROR:    [Errno 98] Address already in use
+zsh:cd:1: no such file or directory: ps5_dashboard
