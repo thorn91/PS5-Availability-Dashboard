@@ -27,15 +27,20 @@ npm install
 npm run serve 
 ```
 
+### Python setup from inside `server`
+```
+pip install -r requirements.txt
+```
+
 ### Starts the Python webserver from inside `server`
 ```
 uvicorn server:app --reload
 ```
 
-### Start both servers at once.
+### Start both servers at once
 
 I don't really recommend this unless you just plan on closing your terminal right after.
-Replace zsh with what is appropriate for your system.
+Replace zsh with what is appropriate for your system.  A build script is coming soon!
 
 ```
 zsh -c "cd server && uvicorn server:app --reload; cd ps5_dashboard && npm run serve" & > output.txt &
