@@ -36,4 +36,4 @@ async def target():
 	t = TargetChecker()
 	data = t.check_stock()
 
-	return data
+	return data['data']
