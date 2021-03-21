@@ -1,6 +1,8 @@
 # PS5 Availability Tracker
 
-Real time updates scraped directly from the website to help you fail at actually being able to add it to your cart and checkout.  Make frustration more frantic and hopefully beat out a scalper or two.
+Tired of scalpers beating you to a PS5 before you even know they're in stock?  With this app, you can get real time updates scraped directly from big box retail website to help you fail at actually being able to add it to your cart and checkout.  
+
+Make frustration more frantic and just maybe, hopefully, beat out a scalper or two.
 
 # Stores Curated
 
