@@ -2,6 +2,19 @@
 
 Real time updates scraped directly from the website to help you fail at actually being able to add it to your cart and checkout.  Make frustration more frantic and hopefully beat out a scalper or two.
 
+# ToDo
+
+[x] Walmart
+[] Best Buy
+[x] Target
+[] Amazon
+[] Costco (may be impossible without a membership)
+[] Gamestop (if the package listing loads, there are some in stock)
+[] Sony Direct
+[] Newegg (multiple packages - unlike Gamestop the search page will load without stock)
+[] Antonline
+[] Sam's club (may be impossible without a membership)
+
 # Features
 
 ## Backend: Python REST Server with FastAPI
@@ -13,7 +26,7 @@ Real time updates scraped directly from the website to help you fail at actually
 
 ## Frontend: Vue.js SPA with Axios and Bootstrap
 
-* Easy to understand and easy to extend
+* Easy to understand and easy to extend.  Vue components need to be improved, as I didn't realize that different stores provide different information, such as Target providing individual store availability information along with overall shipping, or Walmart providing specific dates, which led to each store essentially becoming its own component despite the shared features.
 
 ![image](demo/demo.png)
 
