@@ -2,18 +2,18 @@
 
 Real time updates scraped directly from the website to help you fail at actually being able to add it to your cart and checkout.  Make frustration more frantic and hopefully beat out a scalper or two.
 
-# ToDo
+# Stores Curated
 
-[x] Walmart
-[] Best Buy
-[x] Target
-[] Amazon
-[] Costco (may be impossible without a membership)
-[] Gamestop (if the package listing loads, there are some in stock)
-[] Sony Direct
-[] Newegg (multiple packages - unlike Gamestop the search page will load without stock)
-[] Antonline
-[] Sam's club (may be impossible without a membership)
+- [x] Walmart
+- [] Best Buy
+- [x] Target
+- [] Amazon
+- [] Costco (may be impossible without a membership)
+- [] Gamestop (if the package listing loads, there are some in stock)
+- [] Sony Direct
+- [] Newegg (multiple packages - unlike Gamestop the search page will load without stock)
+- [] Antonline
+- [] Sam's club (may be impossible without a membership)
 
 # Features
 
