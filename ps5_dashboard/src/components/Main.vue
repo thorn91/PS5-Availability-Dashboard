@@ -1,6 +1,9 @@
 <template>
   <div id="main-container" class="">
     <p id="title" class="text-center fs-1 font-monospace light">PS5 Availability Dashboard</p>
+    <p class="text-center fs-1 font-monospace light>Tired of scalpers beating you to a PS5 before you even know they're in stock?<br>
+    With this app, you can get real time updates scraped directly from big box retail website to help you fail at actually being able to add it to your cart and checkout.<br>
+    Make frustration more frantic and just maybe, hopefully, beat out a scalper or two.</p
     <div id="card-container" class="d-flex justify-content-center row">
       <div class="card row bg-transparent" style="width: 24rem;">
         <ul class="list-group p-1 list-group-flush">
