@@ -5,8 +5,9 @@ Webserver to serve requests of the status of the Playstation 5.
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from walmart_checker import WalmartChecker
-from target_checker import TargetChecker
+from store_specific.walmart_checker import WalmartChecker
+from store_specific.target_checker import TargetChecker
+from store_specific.sams_club_checker import SamsClubChecker
 
 # Creates FastAPI instance
 app = FastAPI()
@@ -30,6 +31,7 @@ async def walmart():
 
 	return data
 
+
 @app.get('/target')
 async def target():
 	''' Almost no scraping is involved.  Let the frontend deal with parsing JSON. '''
@@ -37,3 +39,11 @@ async def target():
 	data = t.check_stock()
 
 	return data['data']
+
+
+@app.get('/samsclub')
+async def sams_club():
+	s = SamsClubChecker()
+	data = s.check_stock();
+	
+	return data

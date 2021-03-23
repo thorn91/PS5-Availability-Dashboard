@@ -1476,3 +1476,121 @@ checker.py 03/18/2021 09:24:04 PM Shutting down
 checker.py 03/18/2021 09:24:04 PM Waiting for application shutdown.
 checker.py 03/18/2021 09:24:04 PM Application shutdown complete.
 checker.py 03/18/2021 09:24:04 PM Finished server process [13189]
+checker.py 03/21/2021 11:29:47 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/21/2021 11:29:48 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106207
+checker.py 03/21/2021 11:29:49 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/21/2021 11:29:57 AM Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 396, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/middleware/cors.py", line 78, in __call__
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 201, in app
+    raw_response = await run_endpoint_function(
+  File "/home/thomas/.pyenv/versions/flask/envs/fastapi/lib/python3.9/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./server.py", line 36, in target
+    t = TargetChecker()
+  File "./target_checker.py", line 23, in __init__
+    super().__init__(URL)
+NameError: name 'URL' is not defined
+checker.py 03/21/2021 11:30:15 AM Shutting down
+checker.py 03/21/2021 11:30:15 AM Waiting for application shutdown.
+checker.py 03/21/2021 11:30:15 AM Application shutdown complete.
+checker.py 03/21/2021 11:30:15 AM Finished server process [2966]
+checker.py 03/21/2021 11:30:17 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/21/2021 11:30:17 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/21/2021 11:30:53 AM Shutting down
+checker.py 03/21/2021 11:30:53 AM Waiting for application shutdown.
+checker.py 03/21/2021 11:30:53 AM Application shutdown complete.
+checker.py 03/21/2021 11:30:53 AM Finished server process [2988]
+checker.py 03/23/2021 10:49:21 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:49:22 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107071
+checker.py 03/23/2021 10:49:22 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:49:25 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/23/2021 10:49:26 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/23/2021 10:49:46 AM Shutting down
+checker.py 03/23/2021 10:49:46 AM Waiting for application shutdown.
+checker.py 03/23/2021 10:49:46 AM Application shutdown complete.
+checker.py 03/23/2021 10:49:46 AM Finished server process [6271]
+checker.py 03/23/2021 10:50:57 AM Starting new HTTPS connection (1): www.samsclub.com:443
+checker.py 03/23/2021 10:50:58 AM https://www.samsclub.com:443 "GET /s/playstation%205?altQuery=7330129&clubId=8194&offset=0&rootDimension=pcs_availability%253AOnlinepipsymbcategory%253A7330129pipsymbProduct%2520Type%253AVideo%2520Game%2520Consoles&searchCategoryId=all&searchTerm=playstation+5&selectedFilter=all&sortKey=relevance&sortOrder=1 HTTP/1.1" 200 50792
+checker.py 03/23/2021 10:50:58 AM Request successful to https://www.samsclub.com/s/playstation%205?altQuery=7330129&clubId=8194&offset=0&rootDimension=pcs_availability%253AOnlinepipsymbcategory%253A7330129pipsymbProduct%2520Type%253AVideo%2520Game%2520Consoles&searchCategoryId=all&searchTerm=playstation+5&selectedFilter=all&sortKey=relevance&sortOrder=1
+checker.py 03/23/2021 10:51:07 AM Shutting down
+checker.py 03/23/2021 10:51:07 AM Waiting for application shutdown.
+checker.py 03/23/2021 10:51:07 AM Application shutdown complete.
+checker.py 03/23/2021 10:51:07 AM Finished server process [6515]
+checker.py 03/23/2021 10:54:59 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:55:00 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107085
+checker.py 03/23/2021 10:55:00 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:55:01 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/23/2021 10:55:01 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/23/2021 10:55:49 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:55:50 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106991
+checker.py 03/23/2021 10:55:50 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:55:51 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/23/2021 10:55:51 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/23/2021 10:56:02 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:56:03 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107059
+checker.py 03/23/2021 10:56:03 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:56:03 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/23/2021 10:56:03 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/23/2021 10:56:03 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:56:04 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107029
+checker.py 03/23/2021 10:56:04 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:56:04 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/23/2021 10:56:05 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/23/2021 10:56:37 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/23/2021 10:56:37 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/23/2021 10:56:37 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:56:38 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107072
+checker.py 03/23/2021 10:56:39 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:56:39 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:56:40 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107012
+checker.py 03/23/2021 10:56:40 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:56:40 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:56:40 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 106998
+checker.py 03/23/2021 10:56:41 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:56:41 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/23/2021 10:56:41 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/23/2021 10:56:59 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:57:00 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107088
+checker.py 03/23/2021 10:57:00 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:57:00 AM Starting new HTTPS connection (1): redsky.target.com:443
+checker.py 03/23/2021 10:57:00 AM https://redsky.target.com:443 "GET /redsky_aggregations/v1/web/pdp_fulfillment_v1?key=ff457966e64d5e877fdbad070f276d18ecec4a01&tcin=81114595&store_id=1453&store_positions_store_id=1453&has_store_positions_store_id=true&zip=30606&state=GA&latitude=33.960&longitude=-83.450&pricing_store_id=1453&User-Agent=Mozilla%2F5.0+%28Windows+NT+6.1%3B+WOW64%3B+rv%3A20.0%29+Gecko%2F20100101+Firefox%2F20.0 HTTP/1.1" 200 None
+checker.py 03/23/2021 10:57:00 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:57:02 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107032
+checker.py 03/23/2021 10:57:02 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:57:21 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:57:22 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107012
+checker.py 03/23/2021 10:57:22 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:58:28 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:58:29 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107049
+checker.py 03/23/2021 10:58:29 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:58:45 AM Starting new HTTPS connection (1): www.walmart.com:443
+checker.py 03/23/2021 10:58:46 AM https://www.walmart.com:443 "GET /ip/PlayStation-5-Console/363472942 HTTP/1.1" 200 107022
+checker.py 03/23/2021 10:58:46 AM Request successful to https://www.walmart.com/ip/PlayStation-5-Console/363472942
+checker.py 03/23/2021 10:58:50 AM Shutting down
+checker.py 03/23/2021 10:58:50 AM Waiting for application shutdown.
+checker.py 03/23/2021 10:58:50 AM Application shutdown complete.
+checker.py 03/23/2021 10:58:50 AM Finished server process [6538]

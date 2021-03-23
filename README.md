@@ -4,6 +4,8 @@ Tired of scalpers beating you to a PS5 before you even know they're in stock?  W
 
 Make frustration more frantic and just maybe, hopefully, beat out a scalper or two.
 
+Ironically, I found a PS5 late at Sam's club while setting up their module.  So I guess this worked after all.
+
 # Stores Curated
 
 Disclaimer: no terms of service or Robots.txt rules were violated in _any_ of these searches. Everything is above board, legal, and done through official APIs whenever possible.
@@ -17,7 +19,7 @@ Disclaimer: no terms of service or Robots.txt rules were violated in _any_ of th
 - [ ] Sony Direct
 - [ ] Newegg (multiple packages - unlike Gamestop the search page will load without stock)
 - [ ] Antonline
-- [ ] Sam's club (may be impossible without a membership)
+- [x] Sam's club
 
 # Features
 
