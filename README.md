@@ -11,14 +11,7 @@ Ironically, I found a PS5 late at Sam's club while setting up their module.  So 
 Disclaimer: no terms of service or Robots.txt rules were violated in _any_ of these searches. Everything is above board, legal, and done through official APIs whenever possible.
 
 - [x] Walmart
-- [ ] Best Buy
 - [x] Target
-- [ ] Amazon
-- [ ] Costco (may be impossible without a membership)
-- [ ] Gamestop (if the package listing loads, there are some in stock)
-- [ ] Sony Direct
-- [ ] Newegg (multiple packages - unlike Gamestop the search page will load without stock)
-- [ ] Antonline
 - [x] Sam's club
 
 # Features
